@@ -3,6 +3,7 @@
 using namespace std;
 
 int n,i,j;
+cout<<"enter a number";
 cin>>n;
 
 int** arr=new int*[n];
